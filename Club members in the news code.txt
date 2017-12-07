@@ -1,0 +1,13 @@
+Club Members in News
+
+    <div class="sectionhead">Club Members in the News</div>
+    <p>On Tuesday, November 1, join Keith Goodale of the Keene Amateur Astronomers 
+      Club for a short presentation on lunar photography tips. Please bring a 
+      smart phone or digital camera to practice taking lunar shots. Goodale is 
+      an adjunct lecturer in physics and astronomy at Keene State College and 
+      Past President of the KKA.. </p>
+    <p>The presentation will be held in the Library auditorium from 7:00 pm to 
+      8:30 pm.</p>
+    <p> 
+    <p>We thank these club members for sharing their interests and expertise with 
+      the southwestern NH community. </p>

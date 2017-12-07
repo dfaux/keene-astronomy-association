@@ -1,0 +1,71 @@
+Title: KAA Top Navigation
+Description: Menubar navigation for the KAA site. 
+  <!-- Header image -->
+  <div class="masthead hidden-xs"></div>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#kaa-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#"><img src="images/telescope.png" height="27px"/></a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="kaa-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Astronomy News <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://nightsky.jpl.nasa.gov/index.cfm">Night Sky Network</a></li>
+              <li><a href="http://www.astromart.com/">Astromart</a></li>
+              <li><a href="http://spacedaily.com/">Space Daily</a></li>
+              <li><a href="http://www.nasa.gov/news/">NASA</a></li>
+              <li><a href="http://www.sciencedaily.com/news/space_time/astronomy/">Science
+                Daily - Astronomy</a></li>
+              <li><a href="http://www.space.com/">Space.com</a></li>
+              <li><a href="http://amazing-space.stsci.edu/">Amazing Space</a></li>
+              <li><a href="http://spaceweather.com/">SpaceWeather.com</a></li>
+              <li><a href="http://bcs.whfreeman.com/universe6e/cat_110/ann_menu.htm?v=category&i=01110.03&s=00110&n=01000&o=|02000|01000|">Astronomy
+                Animations</a></li>
+              <li><a href="http://www.universetoday.com/">Universe Today</a></li>
+              <li><a href="http://www.badastronomy.com/index.html">Bad Astronomy</a></li>
+              <li><a href="http://www.cloudynights.com/">Cloudy Nights Telescope
+                Reviews</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="calendar.html">Calendar</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a  href="purpose.html">Our Purpose</a></li>
+              <li><a  href="history.html">Club History</a></li>
+              <li><a  href="officers.html">Officers</a></li>
+              <li><a  href="meetings.html">Meetings</a></li>
+              <li><a  href="membership.html">Membership</a></li>
+              <li><a  href="observatory.html">Observatory</a></li>
+              <li><a  href="contact.html">Contact Us</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Features <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="videos-lectures.html" >Videos, Lectures, Etc.</a></li>
+              <li><a href="member%27sobserving.html" >Members' Observing</a></li>
+              <li><a href="memberphotos.html" >KAA Photos</a></li>
+              <li><a href="links.html" >Links</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+  </nav>

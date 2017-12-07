@@ -1,0 +1,90 @@
+Title: KAA Side Panel
+Description: Panel to use for the right hand side of the pages
+      <!-- Sidebar Widgets Column -->
+      <div class="col-md-4">
+
+      
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Current Conditions - Keene, NH</h3>
+          </div>
+          <div class="panel-body">
+              <a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:03431.1.99999&bannertypeclick=wu_simplegray" title="Keene, New Hampshire Weather Forecast" target="_blank">
+                <img src="http://banners.wunderground.com/weathersticker/htmlSticker2_cond/language/www/US/NH/Keene.gif">
+              </a>
+              <br>
+              <a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:03431.1.99999&bannertypeclick=wu_simplegray" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank">Click for weather forecast</a>
+          </div>
+        </div>
+        
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Sun and Moon - Keene, NH</h3>
+          </div>
+          <div class="panel-body">
+            <span style='display:block !important; width: 276px; text-align: center; font-family: sans-serif; font-size: 12px;'><a href='http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Keene, NH' title='Keene, NH Weather Forecast'><img src='http://weathersticker.wunderground.com/weathersticker/sunandmoon/language/english/US/NH/Keene.gif' alt='Find more about Weather in Keene, NH' /></a><br><a href='http://www.wunderground.com' title='Get latest Weather Forecast updates' style='font-family: sans-serif; font-size: 12px;'>Click for weather forecast</a></span>
+          </div>
+        </div>
+
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Clear Sky Chart - Keene, NH</h3>
+          </div>
+          <div class="panel-body">
+            <p><a href=http://cleardarksky.com/c/KeeneNHkey.html> <img src="http://cleardarksky.com/c/KeeneNHcs0.gif?1"></a></p>
+            <p>Click the image for a complete sky condition forecast.</p>
+            <p class="smaller">Chart courtesy of <a href="http://www.cleardarksky.com/" target="_blank">ClearDarkSky.com</a></p>
+          </div>
+        </div>
+
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Clear Outside - Keene, NH</h3>
+          </div>
+          <div class="panel-body">
+            <p><a href=http://clearoutside.com/forecast/42.93/-72.28> <img src="http://clearoutside.com/forecast_image_small/42.93/-72.28/forecast.png" width="320"></a></p>
+            <p>Click the image for a complete sky condition forecast.</p>
+            <p class="smaller">Chart courtesy of <a href="http://clearoutside.com/" target="_blank">Clear Outside</a></p>
+          </div>
+        </div>
+
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Tonight's Sky - Keene, NH</h3>
+          </div>
+          <div class="panel-body">
+            <p align="center"><a href="http://www.heavens-above.com/skychart.aspx?SL=1&SN=1&Session=kebgfefipchhbpajhcdapohi">
+               <img src="images/wholeskychart-smb.gif" title="Click on the image for a complete sky condition forecast." border="0"></a>
+            </p>
+          </div>
+        </div>
+
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Time</h3>
+          </div>
+          <div class="panel-body">
+            <div class="col-sm-6">
+              <p align="center"><embed src="http://www.worldtimeserver.com/clocks/wtsclock001.swf?color=FF9900&wtsid=US-MA" width="100" height="100" wmode="transparent" type="application/x-shockwave-flash" />
+              </p>
+              <h4 align="center">Keene, NH</h4>
+            </div>
+            <div class="col-sm-6">
+              <p align="center"><embed src="http://www.worldtimeserver.com/clocks/wtsclock001.swf?color=FF9900&wtsid=UTC" width="100" height="100" wmode="transparent" type="application/x-shockwave-flash" />
+              </p>
+              <h4 align="center">UTC</h4>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-primary">
+          <div class="panel-body">
+            <p align="center">
+              <a href="https://nightsky.jpl.nasa.gov/event-calendar.cfm?Club_ID=1420">
+                <img src="images/nsn_banner_sm2.jpg" class="noborder" width="320"></a>
+            </p>
+          </div>
+        </div>
+        
+      </div>
+      <!-- /.side-column -->

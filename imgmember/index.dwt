@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+    <head>
+        <meta name="generator" content="HTML Tidy, see www.w3.org">
+        <link rel="shortcut icon" href="Templates/img/favicon.ico" >
+        <link rel="icon" href="Templates/img/animated_favicon1.gif" type="image/gif" >
+        <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+        <meta name="keywords" content="Keene, NH, New Hampshire, Astronomy, Club, Astronomers, KAA, Cheshire, observing, Star, Constelations, Planets, nova, supernova, galaxy, galaxies, nebula, clusters, globular, moon, telescope, viewing, starchart,visions, observatory ">
+		<meta name="description" content="This is the home page of the Keene Amateur Astronomers Club.  The Keene Amateur Astronomy Club 
+										encourages and supports the beginning and advanced amateur astronomer in a fun atmosphere of fellowship and observing.">
+        <meta name="author" content="David Faux / James Faux modified design by Andreas Viklund - http://andreasviklund.com/">
+        <link rel="stylesheet" type="text/css" href="styles.css" media="screen,projection">
+
+  
+        <title>Keene Amateur Astronomers Club</title>
+    </head>
+
+    <body>
+        <div id="wrap">
+            <div id="header">
+                <h1><a href="#">Keene Amateur Astronomers Club</a></h1>
+
+                <p><strong>A great club</strong></p>
+            </div>
+
+            <div id="leftside">
+                <h2 class="hide">Site menu:</h2>
+
+                <ul class="avmenu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="purpose.html">KAA Purpose</a></li>
+                    <li><a href="history.html">History</a></li>
+                    <li><a href="officers.html">Officers</a></li>
+                    <li><a href="meetings.html">Meetings</a></li>
+                    <li><a href="calendar.html">Calendar</a></li>
+                    <li><a href="observatory.html">Observatory</a></li>
+					<li><a href="Member'sObserving.html">Member's Observing</a></li>
+                    <li><a href="membership.html">Membership</a></li>
+                    <li><a href="kaaphotos.html">KAA Photos</a></li>
+                    <li><a href="toolbox.html">Toolbox</a></li>
+                    <li><a href="moon_phases.html">Moon Phases</a></li>
+					<li><a href="links.html">Links</a></li><br>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+
+                <div class="announce">
+                    <h2>Latest news:</h2>
+
+                    
+       <p><strong>August, 2009:</strong><br><br>
+       The August 2009 business meeting will be held at the club's Sullivan Observatory at 8:30 pm on Friday, August 21st with observing immediately following. The August observing session will be held beginning at 9 pm on Saturday, the 22nd, at the Observatory. All members and interested non-members are invited.</p>
+                    <p class="textright"><a href="calendar.html">Check the link &raquo;</a></p>
+
+                </div>
+            </div>
+
+            <div id="contentwide">
+			  <!-- TemplateBeginEditable name="content" -->
+                <h2>Welcome to the Keene Amateur Astronomers Club!</h2>
+
+ 
+                <h3>What We Do...</h3>
+
+                <p>
+				The Keene Amateur Astronomers Club is a group of people whose goal is the enhancement of Amateur Astronomy by fellowship, 
+				sharing knowledge and enjoyment of the hobby. The KAA Club provides outreach programs when asked 
+				and holds monthly viewing sessions at our own observatory. Regular monthly club meetings are held 
+				at the Keene State college. Anyone interested is invited to attend. Our membership was open to 
+				students, parents, beginners, backyard amateurs and also experienced professionals. And we provide
+                opportunities for our members to grow in one of the greatest hobbies in this world
+                or any other!</p>
+
+                <p>Founded in 1957, our club has a long and distinguished history. We are also members of the
+                Astronomical League. And we actively participate in the annual Stellafane Convention which is
+                consistently rated as one of America's Top Star Parties!</p>
+				
+				<!-- TemplateEndEditable -->
+            </div>
+
+            <div id="footer">
+                <p>Copyright &copy; 2007-2009 Faux web designs </a></p>
+            </div>
+
+        </div>
+    </body>
+</html>
+
+
